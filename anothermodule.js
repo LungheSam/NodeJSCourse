@@ -42,3 +42,4 @@ let totalmem= os.totalmem();
 let freemem = os.freemem();
 // console.log(freemem);
 // console.log(totalmem);
+console.log("Hello world")

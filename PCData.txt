@@ -1,0 +1,6 @@
+== PC DATA ==
+type:Windows_NT
+
+architecture:x64
+
+user:Lunghe Samuel
